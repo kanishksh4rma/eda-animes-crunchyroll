@@ -57,6 +57,7 @@ git clone https://github.com/kanishksh4rma/eda-animes-crunchyroll.git
 ## Author
 
 Developed by: [Kanishk Sharma](https://github.com/kanishksh4rma)
+
 Contact : [LinkedIn](https://linkedin.com/in/kanishksh4rma)
 
 ---
